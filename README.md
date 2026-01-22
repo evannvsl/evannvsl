@@ -1,5 +1,5 @@
 # El Psy Congroo🕹️
-![evannvsl](img/kurisu-idol.jpg)
+![evannvsl](img/muronda.gif)
 
 <!--
 **evannvsl/evannvsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
