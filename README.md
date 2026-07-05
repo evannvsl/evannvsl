@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 
 ##### Side of me🎨
 [![My Skills](https://skillicons.dev/icons?i=ae,ps,pr)](https://skillicons.dev)
-
-##### Besok aja🛌
-![evannvsl gitHub stats](https://github-readme-stats.vercel.app/api?username=evannvsl&show_icons=true&theme=bear&locale=en)
