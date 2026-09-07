@@ -11,7 +11,7 @@
 Just a Daydreamer Loser
 - me gwehj fr!
 ```
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/epannn.fx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-CC0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -37,7 +37,12 @@ Status   : Hytam Legam
 ---
 
 ### ABOUT ME PART 3
-<p align="left">
+
+<div align="center">
+  <img src="img/Viqtorique.gif" alt="evannvsl animation" width="100%" />
+</div>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-CC0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-CC0000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-CC0000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -55,7 +60,11 @@ Status   : Hytam Legam
 
 ### ABOUT ME PART 4
 
-<p align="left">
+<div align="center">
+  <img src="img/reina.gif" alt="evannvsl animation" width="100%" />
+</div>
+<br>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,pr" alt="Creative Tools" />
   </a>
