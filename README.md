@@ -1,26 +1,66 @@
-# El Psy Congroo🕹️
-![evannvsl](img/my.gif)
+#  El Psy Kongroo 🪭
 
-<!--
-**evannvsl/evannvsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="img/futaba.gif" alt="evannvsl animation" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ABOUT ME 
+```
+Just a Daydreamer Loser
+- me gwehj fr!
+```
+<p align="left">
+  <a href="https://instagram.com/epannn.fx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-CC0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/evan-galang-wiryanto-ab4a15397" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-CC0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://open.spotify.com/user/315ebchzzvj3mwyz4omjbab6xjhu" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-CC0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
 
-##### About Me🎞️
-![https://instagram.com/epannn.fx](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.cominevan-galang-wiryanto-ab4a15397](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://open.spotify.com/user/315ebchzzvj3mwyz4omjbab6xjhu?si=2d2aae4482f84097](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+---
 
-##### Languange💻
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+### ABOUT ME PART 2
 
-##### Side of me🎨
-[![My Skills](https://skillicons.dev/icons?i=ae,ps,pr)](https://skillicons.dev)
+```text
+Focus    : Python, C++, React | Cyber, Network, UI | Cisco, FullStack
+Interest : Arduino Uno, AI Engineer, Automation
+Other    : Audio Gear, Video/Photo, Fixed Gear
+Status   : Hytam Legam
+```
+
+---
+
+### ABOUT ME PART 3
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-CC0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-CC0000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-CC0000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-CC0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-CC0000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-CC0000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/R-CC0000?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Jupyter-CC0000?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/React-CC0000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-CC0000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Cisco-CC0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
+
+---
+
+### ABOUT ME PART 4
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr" alt="Creative Tools" />
+  </a>
+</p>
+
+```
+ngeditor bgt jir
+```
