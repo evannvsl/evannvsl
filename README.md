@@ -1,5 +1,9 @@
 #  El Psy Kongroo 🪭
 
+<a href="img/LYn - Life Will Change.flac">
+  <img src="https://img.shields.io/badge/▶%20Life%20Will%20Change-LYn-CC0000?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Life Will Change - LYn" />
+</a>
+
 <div align="center">
   <img src="img/futaba.gif" alt="evannvsl animation" width="100%" />
 </div>
