@@ -59,12 +59,8 @@ Status   : Hytam Legam
 ---
 
 ### ABOUT ME PART 4
-
-<div align="center">
-  <img src="img/reina.gif" alt="evannvsl animation" width="100%" />
-</div>
 <br>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,pr" alt="Creative Tools" />
   </a>
