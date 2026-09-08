@@ -1,6 +1,6 @@
 #  El Psy Kongroo 🪭
 
-<a href="img/LYn - Life Will Change.flac">
+<a href="img/Lyn Inaizumi - Life Will Change.mp3">
   <img src="https://img.shields.io/badge/▶%20Life%20Will%20Change-LYn-CC0000?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Life Will Change - LYn" />
 </a>
 
